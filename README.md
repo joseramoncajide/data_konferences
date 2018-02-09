@@ -9,7 +9,7 @@ Predicting customer lifetime and monetary value in a non-contractual business us
 > Accompanying notebook for Data Konferences Feb. 2018 (Madrid)
 ![Sample dashboard with top KPIs](img/predictive_models_retail.png)
 
-[`customer_centric_metrics.ipynb`](customer_centric_metrics.ipynb)
+[`Jupyter Notebook`](customer_centric_metrics.ipynb)
 
 [`Slides`](DataKonferencesFeb2018.pdf)
 
