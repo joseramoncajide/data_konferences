@@ -15,5 +15,7 @@ Predicting customer lifetime and monetary value in a non-contractual business us
 
 [`Slides`](DataKonferencesFeb2018.pdf)
 
+[`Slides Mini Data Konferences`](DataKonferencesMay2018.pdf)
+
 
 
